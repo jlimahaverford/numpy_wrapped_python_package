@@ -1,1 +1,3 @@
 .idea
+dist
+numpy_wrapped_python_package.egg-info
